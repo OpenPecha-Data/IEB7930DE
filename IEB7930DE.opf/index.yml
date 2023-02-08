@@ -1,0 +1,75 @@
+id: 112cc53ed02a477b89d5fc11543949a3
+annotation_type: index
+revision: '00001'
+annotations:
+  97d9db91903e4418b2aa895279cc6226:
+    base: 1F4A.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 19
+    - title: Preface
+      span:
+        start: 20
+        end: 30
+    - title: Chapter 1
+      span:
+        start: 31
+        end: 3311
+    - title: Chapter 2
+      span:
+        start: 3312
+        end: 11307
+    - title: Chapter 3
+      span:
+        start: 11308
+        end: 13660
+    - title: Chapter 4
+      span:
+        start: 13661
+        end: 16389
+    - title: Chapter 5
+      span:
+        start: 16390
+        end: 19358
+    - title: Chapter 6
+      span:
+        start: 19359
+        end: 23538
+    - title: Chapter 7
+      span:
+        start: 23539
+        end: 25958
+    - title: Chapter 8
+      span:
+        start: 25959
+        end: 29471
+    - title: Chapter 9
+      span:
+        start: 29472
+        end: 32247
+    - title: Chapter 10
+      span:
+        start: 32248
+        end: 35886
+    - title: Chapter 11
+      span:
+        start: 35887
+        end: 39378
+    - title: Chapter 12
+      span:
+        start: 39379
+        end: 40930
+    - title: Colophon
+      span:
+        start: 40931
+        end: 41047
+    - title: Chapter 13
+      span:
+        start: 41048
+        end: 41399
+    - title: Colophon
+      span:
+        start: 41400
+        end: 41410

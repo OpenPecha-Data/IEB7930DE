@@ -1,0 +1,16 @@
+id: IEB7930DE
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:06:59.419657
+last_modified: 2023-02-08 16:06:59.419782
+source_metadata:
+  title: 'Mātṛceṭa: Varṇārhavarṇastotra'
+  language: sa
+bases:
+  1F4A:
+    base_file: 1F4A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
